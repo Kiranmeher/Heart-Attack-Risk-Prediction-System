@@ -236,13 +236,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Healthcare professionals for domain expertise
 - Users providing feedback for continuous improvement
 
-## 📞 Support
 
-For technical support or questions:
-- Email: support@heartguardai.com
-- Issues: GitHub Issues page
-- Documentation: This README and inline code comments
-
----
-
-**Built with ❤️ for better cardiovascular health awareness**
